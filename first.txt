@@ -1,2 +1,4 @@
 GITの練習をしていきます。
 更新をしてみます。
+・git add
+・git commit
